@@ -1,4 +1,5 @@
 'Finds Linked Objects
+'testing'
 Sub Link_Finder()
 Dim oShape As InlineShape, strMsg As String
 Debug.Print Application.Documents.Count
